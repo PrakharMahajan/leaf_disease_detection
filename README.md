@@ -9,3 +9,8 @@ To RUN the code, follow these steps:
   --> RUN the Import_dataset.py file in your IDE
   --> RUN the Architecture.py file
   --> And finally, RUN the Predict.py file
+
+
+
+Also, since the dataset is very large, one can downlaod any leaf dataset from kaggle or UCI and then classify the whole dataset into two seperate folders namely "Healthy" and "Diseased".
+Then, save these two folders into another folder named, 'Dataset' and save it in the same location as the Import_dataset.py file.
