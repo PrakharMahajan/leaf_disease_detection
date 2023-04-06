@@ -12,5 +12,5 @@ To RUN the code, follow these steps:
 
 
 
-Also, since the dataset is very large, one can downlaod any leaf dataset from kaggle or UCI and then classify the whole dataset into two seperate folders namely "Healthy" and "Diseased".
+Also, since the dataset is very large, one can download any leaf dataset from kaggle or UCI and then classify the whole dataset into two seperate folders namely "Healthy" and "Diseased".
 Then, save these two folders into another folder named, 'Dataset' and save it in the same location as the Import_dataset.py file.
